@@ -1,0 +1,7 @@
+C:\Users\gjorg\source\repos\Seminarska\Hangman\bin\Release\Hangman.exe.config
+C:\Users\gjorg\source\repos\Seminarska\Hangman\bin\Release\Hangman.exe
+C:\Users\gjorg\source\repos\Seminarska\Hangman\bin\Release\Hangman.pdb
+C:\Users\gjorg\source\repos\Seminarska\Hangman\obj\Release\Hangman.csproj.AssemblyReference.cache
+C:\Users\gjorg\source\repos\Seminarska\Hangman\obj\Release\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\gjorg\source\repos\Seminarska\Hangman\obj\Release\Hangman.exe
+C:\Users\gjorg\source\repos\Seminarska\Hangman\obj\Release\Hangman.pdb
